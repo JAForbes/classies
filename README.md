@@ -39,3 +39,7 @@ If you have a better version, feel free to submit a PR.
 ## releases
 
 Releases are automated by [pr-release](http://pr-release.org/)
+
+## Debugging
+
+This is to debug pr-release
