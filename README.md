@@ -43,3 +43,7 @@ Releases are automated by [pr-release](http://pr-release.org/)
 ## Debugging
 
 This is to debug pr-release
+
+## Non admin contributor
+
+This edit comes from a user who wasn't an admin
